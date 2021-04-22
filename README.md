@@ -2,14 +2,14 @@
 
 Raspberry piで、猫を検知し、近づいてきたら水スプレーを発射する装置です。
 
-# demo
+# デモ
 
 
-# 機能別demo
+# 機能別デモ
 
-- カメラdemo
+- カメラ起動デモ  
   `/demo/camera_demo.py`
-- 猫検知demo
+- カメラで猫検知デモ  
   `/demo/recognize_cat_demo.py`
-- サーボモータdemo
+- サーボモータ起動デモ  
   `/demo/camera_demo.py`
