@@ -1,6 +1,6 @@
 # 猫に水スプレー発射装置
 
-Raspberry piで、猫を検知し、近づいてきたら水スプレーを発射する装置です。  
+RaspberryPiで、猫を検知し、近づいてきたら水スプレーを発射する装置です。  
 猫には入ってほしくないエリアの入り口に設置して、侵入を防ぎます。
 
 # デモ
@@ -21,6 +21,10 @@ Raspberry piで、猫を検知し、近づいてきたら水スプレーを発�
   `/demo/camera_demo.py`
 
 # RaspberryPi
+
+- RaspberryPi 4B
+- カメラモジュール
+- サーボモータ
 
 <img src="https://user-images.githubusercontent.com/17726777/115890785-44b6ab00-a490-11eb-82fc-a6e250a0b804.jpg" width="250" />
 
