@@ -20,6 +20,10 @@ RaspberryPiで、猫を検知し、近づいてきたら水スプレーを発射
 - サーボモータ起動デモ  
   `/demo/camera_demo.py`
 
+# 技術
+- OpenCVの`lbpcascade_frontalcatface`という猫の顔検出する分類器を利用し実装  
+  分類器： https://github.com/opencv/opencv/blob/master/data/lbpcascades/lbpcascade_frontalcatface.xml
+
 # RaspberryPi
 
 - RaspberryPi 4B
