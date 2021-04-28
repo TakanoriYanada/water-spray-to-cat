@@ -4,12 +4,11 @@ RaspberryPiで、猫を検知し、近づいてきたら水スプレーを発射
 猫には入ってほしくないエリアの入り口に設置して、侵入を防ぎます。
 
 # デモ
-![demo-1](https://user-images.githubusercontent.com/17726777/115885175-a3792600-a48a-11eb-8c8d-9c7f01e54077.gif)
+<img src="https://user-images.githubusercontent.com/17726777/115885175-a3792600-a48a-11eb-8c8d-9c7f01e54077.gif" width="600" />
 
 
 ### 実践映像
-![demo-2](https://user-images.githubusercontent.com/17726777/115889918-5e0b2780-a48f-11eb-82b9-3822a14c8fe9.gif)
-
+<img src="https://user-images.githubusercontent.com/17726777/115889918-5e0b2780-a48f-11eb-82b9-3822a14c8fe9.gif" width="300" />
 
 # 機能別デモ
 
@@ -45,3 +44,4 @@ RaspberryPiで、猫を検知し、近づいてきたら水スプレーを発射
 
 - スプレーの噴射はマイクロサーボモータでは、力不足だったためスタンダードサイズのサーボモータを利用しています
 - モバイルバッテリーでRaspberryPiを起動し、電源いらずで起動することもできます
+- 当初はRaspberryPi Zero を使用していましたが、猫認識が遅くハンドスプレーが5秒程度遅れていたためPaspberryPi4で運用しています
